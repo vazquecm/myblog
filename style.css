@@ -1,0 +1,43 @@
+#blog-title {
+  color: purple;
+  font-family: Helvetica, sans-serif;
+  font-size: 3em;
+  font-weight: 400;
+  text-align: center;
+}
+
+h3.margin-bottom {
+  font-size: 1em;
+  font-family: Ariel, sans-serif;
+  font-weight: bold; 
+}
+p.indent {
+  text-indent: 1.5em;
+}
+body {
+  font-family: Ariel;
+  font-size: 1.5em;
+  background-color: #fce5e8;
+}
+nav#reasons > ul > li {
+  max-width: 500px;
+  padding: 0;
+  background-color: #6bc7ee;
+  font-family; Ariel;
+  font-size: 1em;
+  text-align: left;
+  list-style-type: none;
+ }
+ img#r-float {
+  float: right;
+  margin: 0 .75em .5em 0;
+ }
+
+
+
+
+
+
+
+
+
